@@ -16,6 +16,7 @@ public class App
         System.out.println("Test Commit Sysout A commit!");
    	System.out.println("Test Commit Sysout A commit!");
 	System.out.println("Test Commit Sysout A commit!");
+	System.out.println("Test Commit Sysout A commit!");
     }
     
     public String generateUniqueKey(){
